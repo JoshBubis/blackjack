@@ -1,0 +1,18 @@
+header{
+  font-size: 3em;
+  font-weight: 700;
+  font-style: serif;
+  border-style: groove;
+
+}
+body{
+  background-color: green;
+
+}
+
+.table{
+  border-style: groove;
+  border-color: red;
+  padding: 5px;
+  margin: 5px;
+}

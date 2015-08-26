@@ -1,2 +1,2 @@
 # blackjack
-My Blackjack PRoject
+My Blackjack Project
